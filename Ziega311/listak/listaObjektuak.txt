@@ -1,0 +1,264 @@
+Kasko
+Paperezko txanoa
+1
+1
+1
+1
+Galtza
+Paperezko galtza
+1
+1
+1
+1
+Petoa
+Paperezko petoa
+1
+1
+1
+1
+Arma
+Paperezko ezpata
+1
+1
+1
+1
+Kasko
+Kartoizko txanoa
+2
+2
+2
+2
+Galtza
+Kartoizko galtza
+2
+2
+2
+2
+Petoa
+Kartoizko petoa
+2
+2
+2
+2
+Arma
+Kartoizko ezpata
+2
+2
+2
+2
+Arma
+Zurezko ezpata
+0
+3
+2
+1
+Galtza
+Erabilitako boxer-a
+5
+0
+2
+3
+Arma
+Kompasa
+0
+3
+2
+3
+Arma
+Tiza
+1
+3
+2
+1
+Kasko
+Pentsatzeko txanoa
+2
+4
+7
+2
+Arma
+Eskuaira
+0
+1
+4
+2
+Arma
+Erregela
+0
+4
+2
+3
+Kasko
+Eroskiko boltsa
+3
+0
+2
+2
+Peto
+Piercing-a
+-7
+0
+8
+10
+Peto
+Eguzkiko krema
+6
+0
+3
+5
+Galtza
+Eguzkiko krema
+6
+0
+3
+5
+Kasko
+Eguzkiko krema
+6
+0
+3
+5
+Arma
+Eguzkiko kremaren botea
+0
+6
+3
+5
+Peto
+Zuhaitzaren-azala
+1
+2
+3
+4
+Galtza
+Zuhaitzaren hostoa
+2
+3
+4
+1
+Kasko
+Ezkurra
+3
+4
+1
+2
+Kasko
+Lapikoa
+7
+5
+2
+2
+Arma
+Harrizko ezpata
+0
+5
+2
+2
+Galtza
+Boxer berria
+8
+3
+5
+6
+Peto
+Amantala
+10
+1
+4
+6
+Arma
+Ezpata handia
+0
+6
+3
+4
+Arma
+Gurutzea
+0
+13
+0
+0
+Peto
+Ustaren orbainak
+13
+0
+0
+0
+Kasko
+Arantzazko kaskoa
+0
+0
+13
+0
+Galtza
+Gerripekoa
+0
+0
+0
+13
+Arma
+Infernuko hiruhortza
+0
+6
+6
+6
+Kasko
+Adarrak
+6
+0
+6
+6
+Peto
+Infernuko pentagrama
+6
+6
+0
+6
+Galtza
+Ahuntz hankak
+6
+6
+6
+0
+Kasko
+Aluminiozko papera
+11
+8
+15
+20
+Arma
+Ondo zorroztutako ezpata
+4
+10
+8
+5
+Arma
+Kartaboia
+0
+15
+6
+8
+Galtza
+Sortearen boxer-a
+11
+6
+18
+9
+Peto
+Pabloren kamiseta
+20
+3
+14
+30
+Kasko
+Txano hautatzailea
+26
+5
+13
+22
+Arma
+Informatikako titulua
+13
+34
+18
+22
